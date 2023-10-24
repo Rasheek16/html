@@ -1,3 +1,3 @@
-##HTML Tags Reference
-This GitHub repository is a simple and concise reference for all HTML tags. It provides code examples for each tag.
+# HTML Tags Reference
 
+This GitHub repository is a concise reference for HTML tags with code examples.
